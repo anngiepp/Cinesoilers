@@ -17,17 +17,16 @@ function App() {
           </h1>
 
           <p>
-            Frontend Developer apasionada por crear
-            experiencias visuales modernas con React.
+            Plataforma oficial de los guerreros
           </p>
 
           <div className="buttons">
             <button className="primary-btn">
-              Explore Movies
+              Más sobre michi
             </button>
 
             <button className="secondary-btn">
-              View Projects
+              Ver competidores
             </button>
           </div>
         </div>
