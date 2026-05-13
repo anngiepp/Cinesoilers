@@ -40,7 +40,6 @@ npm -v
 
 ## 📸 Evidencia
 
-```md id="3z2pka"
 ![Paso 1](./src/images/1.png)
 ```
 
